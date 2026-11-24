@@ -1,0 +1,22 @@
+PA Orthopedics Associates
+NPI 1780913434
+
+UnitedHealthcare — Provider Appeals
+
+RE: Request for reconsideration
+Patient: Maria Young   DOB: 1970-10-14   Member ID: UHC240333563
+Claim: CLM0004133   Payer claim #: 5058456070866   DOS: 2026-04-14
+Service: 29881   Billed: $4,200.00
+Denial: CARC 197 – Precertification/authorization absent
+Appeal deadline: 2026-11-18
+
+We request reconsideration of the denial above.
+
+Authorization was obtained retroactively / was in process at the time of service. [Add the authorization number and the reason it was not on the original claim.]
+
+Please reprocess the service for payment. Enclosed: claim copy, remittance, supporting documentation.
+
+Sincerely,
+Billing Office
+
+[DRAFT generated from synthetic data — review before sending]

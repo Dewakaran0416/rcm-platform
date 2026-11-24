@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rcm-platform"
+version = "0.3.0"
+description = "End-to-end revenue cycle platform: claim scrubbing, 837/835, payment posting, denial prediction and recovery, claim status, analytics, and data ingestion"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [{name = "Dewakaran"}]
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+[project.optional-dependencies]
+ml = ["scikit-learn>=1.3"]
+excel = ["openpyxl>=3.1"]
+test = ["pytest>=7"]
+all = ["scikit-learn>=1.3", "openpyxl>=3.1", "pytest>=7"]
+
+[project.scripts]
+rcm = "rcm.cli:main"
+
+[tool.setuptools]
+packages = ["rcm", "rcm.reference", "rcm.x12", "rcm.ingest"]
+
+[tool.setuptools.package-data]
+rcm = ["schema.sql"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

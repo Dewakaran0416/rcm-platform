@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Run outputs (regenerate with `python -m rcm pipeline`)
+/data/
+/client*/
+/templates/
+/my_export/
+
+# Safety net: never commit claim or patient data.
+# Real exports, databases and X12 files are blocked everywhere except the synthetic samples.
+*.sqlite
+*.sqlite3
+*.db
+*.csv
+*.xlsx
+*.xlsm
+*.xls
+*.x12
+*.edi
+*.835
+*.837
+*.276
+*.277
+ingest_issues*.csv
+ingest_report.json
+*_INTERNAL_*
+!samples/**

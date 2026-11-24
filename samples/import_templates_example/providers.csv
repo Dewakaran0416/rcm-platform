@@ -1,0 +1,140 @@
+﻿npi,name,provider_type,specialty,taxonomy_code,tax_id,state,billing_npi
+1880812551,PA Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,51-2155046,PA,
+1477561900,Dr. John Johnson (synthetic),Rendering,Family Medicine,207Q00000X,51-2155046,PA,1880812551
+1879439556,Dr. Betty Thompson (synthetic),Rendering,Family Medicine,207Q00000X,51-2155046,PA,1880812551
+1564795882,Dr. Jennifer Smith (synthetic),Rendering,Family Medicine,207Q00000X,51-2155046,PA,1880812551
+1243921263,PA Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,89-1840622,PA,
+1841341989,Dr. Daniel Williams (synthetic),Rendering,Cardiology,207RC0000X,89-1840622,PA,1243921263
+1132860952,Dr. Priya Young (synthetic),Rendering,Cardiology,207RC0000X,89-1840622,PA,1243921263
+1743397360,PA Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,67-7159926,PA,
+1371463088,Dr. Anthony Wilson (synthetic),Rendering,Orthopedics,207X00000X,67-7159926,PA,1743397360
+1871698993,Dr. Susan Johnson (synthetic),Rendering,Orthopedics,207X00000X,67-7159926,PA,1743397360
+1570340814,Dr. Mark Martinez (synthetic),Rendering,Orthopedics,207X00000X,67-7159926,PA,1743397360
+1858984861,Dr. Sarah Hall (synthetic),Rendering,Orthopedics,207X00000X,67-7159926,PA,1743397360
+1869947428,PA Radiology Associates (synthetic),Billing,Radiology,2085R0202X,74-8452159,PA,
+1282406903,Dr. Barbara Anderson (synthetic),Rendering,Radiology,2085R0202X,74-8452159,PA,1869947428
+1640110643,Dr. Joseph Rodriguez (synthetic),Rendering,Radiology,2085R0202X,74-8452159,PA,1869947428
+1575671759,Dr. John Anderson (synthetic),Rendering,Radiology,2085R0202X,74-8452159,PA,1869947428
+1202452946,Dr. Susan Rodriguez (synthetic),Rendering,Radiology,2085R0202X,74-8452159,PA,1869947428
+1846465734,PA Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,72-7742840,PA,
+1611232301,Dr. Patricia Rodriguez (synthetic),Rendering,Physical Therapy,225100000X,72-7742840,PA,1846465734
+1271620167,Dr. Maria Johnson (synthetic),Rendering,Physical Therapy,225100000X,72-7742840,PA,1846465734
+1838650186,Dr. Nancy Anderson (synthetic),Rendering,Physical Therapy,225100000X,72-7742840,PA,1846465734
+1144270315,Dr. Sandra Wilson (synthetic),Rendering,Physical Therapy,225100000X,72-7742840,PA,1846465734
+1174876197,NY Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,71-2775527,NY,
+1693284683,Dr. Elizabeth Young (synthetic),Rendering,Family Medicine,207Q00000X,71-2775527,NY,1174876197
+1783957107,Dr. Anthony Clark (synthetic),Rendering,Family Medicine,207Q00000X,71-2775527,NY,1174876197
+1540874132,NY Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,75-5606430,NY,
+1362243689,Dr. Daniel Lee (synthetic),Rendering,Cardiology,207RC0000X,75-5606430,NY,1540874132
+1089826444,Dr. Jessica Harris (synthetic),Rendering,Cardiology,207RC0000X,75-5606430,NY,1540874132
+1447375977,Dr. Linda Hernandez (synthetic),Rendering,Cardiology,207RC0000X,75-5606430,NY,1540874132
+1292978206,NY Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,74-6469483,NY,
+1235977513,Dr. John Patel (synthetic),Rendering,Orthopedics,207X00000X,74-6469483,NY,1292978206
+1243180928,Dr. Nancy Brown (synthetic),Rendering,Orthopedics,207X00000X,74-6469483,NY,1292978206
+1393894658,Dr. James Lewis (synthetic),Rendering,Orthopedics,207X00000X,74-6469483,NY,1292978206
+1049313459,Dr. David Lee (synthetic),Rendering,Orthopedics,207X00000X,74-6469483,NY,1292978206
+1860155211,NY Radiology Associates (synthetic),Billing,Radiology,2085R0202X,42-3403823,NY,
+1905111450,Dr. Linda Rodriguez (synthetic),Rendering,Radiology,2085R0202X,42-3403823,NY,1860155211
+1805012659,Dr. Wei Clark (synthetic),Rendering,Radiology,2085R0202X,42-3403823,NY,1860155211
+1315408512,Dr. Barbara Nguyen (synthetic),Rendering,Radiology,2085R0202X,42-3403823,NY,1860155211
+1294619980,Dr. Jessica Martin (synthetic),Rendering,Radiology,2085R0202X,42-3403823,NY,1860155211
+1686434824,NY Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,16-9531686,NY,
+1233648041,Dr. Sarah Rodriguez (synthetic),Rendering,Physical Therapy,225100000X,16-9531686,NY,1686434824
+1847261512,Dr. Daniel Jackson (synthetic),Rendering,Physical Therapy,225100000X,16-9531686,NY,1686434824
+1588890941,TX Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,67-3218135,TX,
+1192375545,Dr. Jennifer Jones (synthetic),Rendering,Family Medicine,207Q00000X,67-3218135,TX,1588890941
+1676192440,Dr. Nancy White (synthetic),Rendering,Family Medicine,207Q00000X,67-3218135,TX,1588890941
+1908026812,TX Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,68-1509460,TX,
+1964566974,Dr. Mary Brown (synthetic),Rendering,Cardiology,207RC0000X,68-1509460,TX,1908026812
+1700019288,Dr. Thomas Lewis (synthetic),Rendering,Cardiology,207RC0000X,68-1509460,TX,1908026812
+1584957397,Dr. Linda Brown (synthetic),Rendering,Cardiology,207RC0000X,68-1509460,TX,1908026812
+1852105653,TX Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,42-1933940,TX,
+1666545730,Dr. Daniel Lee (synthetic),Rendering,Orthopedics,207X00000X,42-1933940,TX,1852105653
+1820518284,Dr. Daniel Thompson (synthetic),Rendering,Orthopedics,207X00000X,42-1933940,TX,1852105653
+1751907365,Dr. Daniel Hall (synthetic),Rendering,Orthopedics,207X00000X,42-1933940,TX,1852105653
+1263135539,Dr. Betty White (synthetic),Rendering,Orthopedics,207X00000X,42-1933940,TX,1852105653
+1775736766,TX Radiology Associates (synthetic),Billing,Radiology,2085R0202X,79-3020148,TX,
+1742206612,Dr. Betty Smith (synthetic),Rendering,Radiology,2085R0202X,79-3020148,TX,1775736766
+1127684227,Dr. Thomas Hall (synthetic),Rendering,Radiology,2085R0202X,79-3020148,TX,1775736766
+1140763867,Dr. James Jackson (synthetic),Rendering,Radiology,2085R0202X,79-3020148,TX,1775736766
+1362253183,Dr. Wei Jackson (synthetic),Rendering,Radiology,2085R0202X,79-3020148,TX,1775736766
+1226908360,TX Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,40-1678732,TX,
+1389813670,Dr. Patricia Martin (synthetic),Rendering,Physical Therapy,225100000X,40-1678732,TX,1226908360
+1061817080,Dr. Linda Lewis (synthetic),Rendering,Physical Therapy,225100000X,40-1678732,TX,1226908360
+1004746297,Dr. John Jackson (synthetic),Rendering,Physical Therapy,225100000X,40-1678732,TX,1226908360
+1587868260,Dr. Matthew Wilson (synthetic),Rendering,Physical Therapy,225100000X,40-1678732,TX,1226908360
+1374524944,MI Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,32-2403640,MI,
+1552444568,Dr. David Martin (synthetic),Rendering,Family Medicine,207Q00000X,32-2403640,MI,1374524944
+1702243316,Dr. Betty Martin (synthetic),Rendering,Family Medicine,207Q00000X,32-2403640,MI,1374524944
+1893863922,Dr. Sarah Thomas (synthetic),Rendering,Family Medicine,207Q00000X,32-2403640,MI,1374524944
+1631120064,Dr. Richard Anderson (synthetic),Rendering,Family Medicine,207Q00000X,32-2403640,MI,1374524944
+1299288138,MI Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,58-3339197,MI,
+1365234255,Dr. Jessica Jackson (synthetic),Rendering,Cardiology,207RC0000X,58-3339197,MI,1299288138
+1418437046,Dr. Betty Walker (synthetic),Rendering,Cardiology,207RC0000X,58-3339197,MI,1299288138
+1991957493,Dr. Mary Johnson (synthetic),Rendering,Cardiology,207RC0000X,58-3339197,MI,1299288138
+1522116932,MI Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,36-9459648,MI,
+1613682941,Dr. Lisa Smith (synthetic),Rendering,Orthopedics,207X00000X,36-9459648,MI,1522116932
+1139678936,Dr. David Johnson (synthetic),Rendering,Orthopedics,207X00000X,36-9459648,MI,1522116932
+1288364668,Dr. David Taylor (synthetic),Rendering,Orthopedics,207X00000X,36-9459648,MI,1522116932
+1122807070,Dr. Michael Wilson (synthetic),Rendering,Orthopedics,207X00000X,36-9459648,MI,1522116932
+1853110678,MI Radiology Associates (synthetic),Billing,Radiology,2085R0202X,34-3906166,MI,
+1838685331,Dr. Barbara White (synthetic),Rendering,Radiology,2085R0202X,34-3906166,MI,1853110678
+1915070928,Dr. Priya Jones (synthetic),Rendering,Radiology,2085R0202X,34-3906166,MI,1853110678
+1470981964,Dr. Robert Wilson (synthetic),Rendering,Radiology,2085R0202X,34-3906166,MI,1853110678
+1894645708,Dr. Sarah Nguyen (synthetic),Rendering,Radiology,2085R0202X,34-3906166,MI,1853110678
+1706495292,MI Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,85-5660312,MI,
+1956680999,Dr. Patricia Johnson (synthetic),Rendering,Physical Therapy,225100000X,85-5660312,MI,1706495292
+1980155588,Dr. Mary Thompson (synthetic),Rendering,Physical Therapy,225100000X,85-5660312,MI,1706495292
+1591718758,KS Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,74-1057144,KS,
+1553292917,Dr. Richard Hernandez (synthetic),Rendering,Family Medicine,207Q00000X,74-1057144,KS,1591718758
+1865549509,Dr. Matthew Williams (synthetic),Rendering,Family Medicine,207Q00000X,74-1057144,KS,1591718758
+1346849916,KS Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,19-3858638,KS,
+1612484331,Dr. Patricia Rodriguez (synthetic),Rendering,Cardiology,207RC0000X,19-3858638,KS,1346849916
+1708438183,Dr. William Hernandez (synthetic),Rendering,Cardiology,207RC0000X,19-3858638,KS,1346849916
+1482075003,Dr. William Anderson (synthetic),Rendering,Cardiology,207RC0000X,19-3858638,KS,1346849916
+1280986237,KS Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,39-2925397,KS,
+1298147301,Dr. Barbara Thomas (synthetic),Rendering,Orthopedics,207X00000X,39-2925397,KS,1280986237
+1595300702,Dr. Jennifer Rodriguez (synthetic),Rendering,Orthopedics,207X00000X,39-2925397,KS,1280986237
+1800318200,Dr. Thomas Miller (synthetic),Rendering,Orthopedics,207X00000X,39-2925397,KS,1280986237
+1374378556,Dr. Richard Thompson (synthetic),Rendering,Orthopedics,207X00000X,39-2925397,KS,1280986237
+1139239499,KS Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,64-8952754,KS,
+1070199694,Dr. William Hernandez (synthetic),Rendering,Physical Therapy,225100000X,64-8952754,KS,1139239499
+1163879988,Dr. Thomas Young (synthetic),Rendering,Physical Therapy,225100000X,64-8952754,KS,1139239499
+1799797240,Dr. Nancy Hall (synthetic),Rendering,Physical Therapy,225100000X,64-8952754,KS,1139239499
+1849698448,AZ Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,49-1246081,AZ,
+1077538738,Dr. Matthew Taylor (synthetic),Rendering,Family Medicine,207Q00000X,49-1246081,AZ,1849698448
+1526601509,Dr. David Lewis (synthetic),Rendering,Family Medicine,207Q00000X,49-1246081,AZ,1849698448
+1804605545,Dr. Carlos Patel (synthetic),Rendering,Family Medicine,207Q00000X,49-1246081,AZ,1849698448
+1031511243,Dr. Susan Lee (synthetic),Rendering,Family Medicine,207Q00000X,49-1246081,AZ,1849698448
+1530289549,AZ Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,47-7342051,AZ,
+1871363903,Dr. Maria Davis (synthetic),Rendering,Cardiology,207RC0000X,47-7342051,AZ,1530289549
+1336639244,Dr. Lisa Clark (synthetic),Rendering,Cardiology,207RC0000X,47-7342051,AZ,1530289549
+1504772207,Dr. Barbara Anderson (synthetic),Rendering,Cardiology,207RC0000X,47-7342051,AZ,1530289549
+1858759198,AZ Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,92-5903791,AZ,
+1460417185,Dr. Linda Young (synthetic),Rendering,Orthopedics,207X00000X,92-5903791,AZ,1858759198
+1946530197,Dr. Thomas Moore (synthetic),Rendering,Orthopedics,207X00000X,92-5903791,AZ,1858759198
+1822401307,Dr. Nancy Johnson (synthetic),Rendering,Orthopedics,207X00000X,92-5903791,AZ,1858759198
+1601000858,Dr. William Walker (synthetic),Rendering,Orthopedics,207X00000X,92-5903791,AZ,1858759198
+1090837349,AZ Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,47-9749594,AZ,
+1323603872,Dr. Mary Hernandez (synthetic),Rendering,Physical Therapy,225100000X,47-9749594,AZ,1090837349
+1561092812,Dr. Anthony Garcia (synthetic),Rendering,Physical Therapy,225100000X,47-9749594,AZ,1090837349
+1332410525,Dr. Robert Hall (synthetic),Rendering,Physical Therapy,225100000X,47-9749594,AZ,1090837349
+1723045096,CA Family Medicine Associates (synthetic),Billing,Family Medicine,207Q00000X,21-8424283,CA,
+1321030110,Dr. Betty Walker (synthetic),Rendering,Family Medicine,207Q00000X,21-8424283,CA,1723045096
+1344863042,Dr. Anthony Miller (synthetic),Rendering,Family Medicine,207Q00000X,21-8424283,CA,1723045096
+1555796618,CA Cardiology Associates (synthetic),Billing,Cardiology,207RC0000X,64-5101947,CA,
+1529131645,Dr. Sarah Martinez (synthetic),Rendering,Cardiology,207RC0000X,64-5101947,CA,1555796618
+1556755563,Dr. Jessica Moore (synthetic),Rendering,Cardiology,207RC0000X,64-5101947,CA,1555796618
+1052424920,Dr. Sandra Jackson (synthetic),Rendering,Cardiology,207RC0000X,64-5101947,CA,1555796618
+1227222191,CA Orthopedics Associates (synthetic),Billing,Orthopedics,207X00000X,42-4949832,CA,
+1524741620,Dr. Sarah Lopez (synthetic),Rendering,Orthopedics,207X00000X,42-4949832,CA,1227222191
+1712512783,Dr. Mary Johnson (synthetic),Rendering,Orthopedics,207X00000X,42-4949832,CA,1227222191
+1355858550,Dr. Daniel Brown (synthetic),Rendering,Orthopedics,207X00000X,42-4949832,CA,1227222191
+1260493030,CA Radiology Associates (synthetic),Billing,Radiology,2085R0202X,48-6487257,CA,
+1635034907,Dr. Michael Brown (synthetic),Rendering,Radiology,2085R0202X,48-6487257,CA,1260493030
+1235842238,Dr. Robert Martinez (synthetic),Rendering,Radiology,2085R0202X,48-6487257,CA,1260493030
+1988898676,Dr. Carlos Moore (synthetic),Rendering,Radiology,2085R0202X,48-6487257,CA,1260493030
+1728536149,Dr. Michael Davis (synthetic),Rendering,Radiology,2085R0202X,48-6487257,CA,1260493030
+1223027529,CA Physical Therapy Associates (synthetic),Billing,Physical Therapy,225100000X,16-7045324,CA,
+1933173951,Dr. Jennifer Martin (synthetic),Rendering,Physical Therapy,225100000X,16-7045324,CA,1223027529
+1035780059,Dr. Jessica Jackson (synthetic),Rendering,Physical Therapy,225100000X,16-7045324,CA,1223027529

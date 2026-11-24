@@ -1,0 +1,30 @@
+﻿payer_id,payer_name,line_of_business,state,timely_filing_days,appeal_limit_days,ai_call_status
+BCBSKS,BCBS Kansas,Commercial,KS,180,180,Conditional
+BCBSMI,BCBS Michigan,Commercial,MI,180,180,Silent
+BCBSTX,BCBS Texas,Commercial,TX,95,180,Not yet checked
+CAPBC,Capital Blue Cross,Commercial,PA,180,180,Silent
+ANTHCA,Anthem Blue Cross (CA),Commercial,CA,90,180,Not yet checked
+MCR-JL,Medicare Part B – Novitas JL,Medicare FFS,PA,365,120,IVR-required
+MCR-JF,Medicare Part B – Noridian JF,Medicare FFS,AZ,365,120,IVR-required
+MCR-JH,Medicare Part B – Novitas JH,Medicare FFS,TX,365,120,IVR-required
+MCR-JK,Medicare Part B – NGS JK,Medicare FFS,NY,365,120,IVR-required
+MCR-J8,Medicare Part B – WPS J8,Medicare FFS,MI,365,120,IVR-required
+MCR-J5,Medicare Part B – WPS J5,Medicare FFS,KS,365,120,IVR-required
+MCR-JE,Medicare Part B – Noridian JE,Medicare FFS,CA,365,120,IVR-required
+MCD-NY,New York Medicaid (FFS),Medicaid FFS,NY,90,60,Not yet checked
+MCD-TX,Texas Medicaid (FFS),Medicaid FFS,TX,95,120,Not yet checked
+MCD-PA,Pennsylvania Medicaid (FFS),Medicaid FFS,PA,180,60,Not yet checked
+MCD-MI,Michigan Medicaid (FFS),Medicaid FFS,MI,365,60,Not yet checked
+MCD-KS,Kansas Medicaid (FFS),Medicaid FFS,KS,180,60,Not yet checked
+MCD-AZ,Arizona Medicaid (FFS),Medicaid FFS,AZ,180,60,Not yet checked
+MCD-CA,California Medicaid (FFS),Medicaid FFS,CA,180,90,Not yet checked
+FIDNY,Fidelis Care,Medicaid MCO,NY,90,60,Prohibited
+AETNA,Aetna,Commercial,,90,180,Silent
+AETMA,Aetna Medicare Advantage,Medicare Advantage,,365,60,Silent
+HUMMA,Humana Medicare Advantage,Medicare Advantage,,365,60,Silent
+UHC,UnitedHealthcare,Commercial,,90,180,Silent
+UHCMA,UnitedHealthcare Medicare Advantage,Medicare Advantage,,365,60,Silent
+UHCCP,UnitedHealthcare Community Plan,Medicaid MCO,,180,60,Not yet checked
+UPMC,UPMC Health Plan,Commercial,PA,90,180,Silent
+TRIW,TRICARE West (TriWest),Military,,365,90,Restricted
+TFL,TRICARE For Life (WPS),Military,,365,90,Silent

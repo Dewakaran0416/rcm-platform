@@ -1,0 +1,346 @@
+{
+  "as_of": "2026-11-15",
+  "data": "synthetic",
+  "kpis": {
+    "as_of": "2026-11-15",
+    "charges": 5007394.0,
+    "payer_paid": 1670352.63,
+    "patient_resp": 603885.8,
+    "contractual": 1992001.57,
+    "denied": 772774.0,
+    "net_collection_rate": 0.8688646436277819,
+    "ncr_basis": "contract",
+    "gross_collection_rate": 0.3335772319893342,
+    "initial_denial_rate": 0.11428571428571428,
+    "clean_claim_rate": 0.8516754850088183,
+    "claims_adjudicated": 11340,
+    "open_ar": 725504.0,
+    "days_in_ar": 49.84778169242573,
+    "ar_aging": {
+      "0-30": 195072.0,
+      "31-60": 185802.0,
+      "61-90": 91577.0,
+      "91-120": 60574.0,
+      "120+": 192479.0
+    },
+    "avg_days_dos_to_payment": 33.7,
+    "avg_submission_lag_days": 6.2,
+    "monthly": [
+      {
+        "month": "2026-01",
+        "charges": 535547.0,
+        "paid": 160619.9
+      },
+      {
+        "month": "2026-02",
+        "charges": 506515.0,
+        "paid": 158488.31
+      },
+      {
+        "month": "2026-03",
+        "charges": 517046.0,
+        "paid": 165592.28
+      },
+      {
+        "month": "2026-04",
+        "charges": 547447.0,
+        "paid": 177570.1
+      },
+      {
+        "month": "2026-05",
+        "charges": 564302.0,
+        "paid": 188523.45
+      },
+      {
+        "month": "2026-06",
+        "charges": 536346.0,
+        "paid": 181912.55
+      },
+      {
+        "month": "2026-07",
+        "charges": 558756.0,
+        "paid": 185761.59
+      },
+      {
+        "month": "2026-08",
+        "charges": 552477.0,
+        "paid": 195039.54
+      },
+      {
+        "month": "2026-09",
+        "charges": 568090.0,
+        "paid": 183466.38
+      },
+      {
+        "month": "2026-10",
+        "charges": 489480.0,
+        "paid": 73378.53
+      }
+    ],
+    "denial_by_family": [
+      {
+        "family": "Medicaid",
+        "claims": 1521,
+        "denial_rate": 0.1472715318869165,
+        "paid": 179591.36
+      },
+      {
+        "family": "Humana",
+        "claims": 483,
+        "denial_rate": 0.12008281573498965,
+        "paid": 87767.18
+      },
+      {
+        "family": "Medicare",
+        "claims": 1474,
+        "denial_rate": 0.11940298507462686,
+        "paid": 154117.16
+      },
+      {
+        "family": "UHC",
+        "claims": 3696,
+        "denial_rate": 0.10984848484848485,
+        "paid": 591396.01
+      },
+      {
+        "family": "Aetna",
+        "claims": 1680,
+        "denial_rate": 0.10654761904761904,
+        "paid": 276456.41
+      },
+      {
+        "family": "TRICARE",
+        "claims": 660,
+        "denial_rate": 0.10303030303030303,
+        "paid": 104445.39
+      },
+      {
+        "family": "BCBS",
+        "claims": 1691,
+        "denial_rate": 0.1023063276167948,
+        "paid": 262221.34
+      },
+      {
+        "family": "UPMC",
+        "claims": 135,
+        "denial_rate": 0.08888888888888889,
+        "paid": 14357.78
+      }
+    ],
+    "denial_by_carc": [
+      {
+        "carc": "197",
+        "lines": 180,
+        "dollars": 362850.0
+      },
+      {
+        "carc": "16",
+        "lines": 384,
+        "dollars": 109259.0
+      },
+      {
+        "carc": "50",
+        "lines": 269,
+        "dollars": 106315.0
+      },
+      {
+        "carc": "27",
+        "lines": 273,
+        "dollars": 73646.0
+      },
+      {
+        "carc": "18",
+        "lines": 223,
+        "dollars": 47342.0
+      },
+      {
+        "carc": "96",
+        "lines": 146,
+        "dollars": 31620.0
+      },
+      {
+        "carc": "97",
+        "lines": 193,
+        "dollars": 23582.0
+      },
+      {
+        "carc": "29",
+        "lines": 72,
+        "dollars": 18160.0
+      }
+    ]
+  },
+  "modules": {
+    "scrubber": {
+      "denied_lines": 1740,
+      "caught_before_submission": 1593,
+      "recall": 0.916,
+      "precision": 0.806,
+      "preventable_dollars": 675567.0,
+      "by_driver": {
+        "bundling": {
+          "denied_lines": 193,
+          "caught": 193,
+          "recall": 1.0
+        },
+        "duplicate": {
+          "denied_lines": 223,
+          "caught": 223,
+          "recall": 1.0
+        },
+        "eligibility": {
+          "denied_lines": 273,
+          "caught": 273,
+          "recall": 1.0
+        },
+        "medical_necessity": {
+          "denied_lines": 269,
+          "caught": 268,
+          "recall": 0.996
+        },
+        "missing_info": {
+          "denied_lines": 384,
+          "caught": 384,
+          "recall": 1.0
+        },
+        "no_auth": {
+          "denied_lines": 180,
+          "caught": 180,
+          "recall": 1.0
+        },
+        "non_covered": {
+          "denied_lines": 146,
+          "caught": 0,
+          "recall": 0.0
+        },
+        "timely_filing": {
+          "denied_lines": 72,
+          "caught": 72,
+          "recall": 1.0
+        }
+      },
+      "edits_by_code": {
+        "DXNEC": 726,
+        "INFO": 418,
+        "BUNDLE": 226,
+        "AUTH": 204,
+        "ELIG": 190,
+        "DUP": 142,
+        "TFL": 56
+      },
+      "claims_in_837": 10967
+    },
+    "posting": {
+      "payments": 6545,
+      "claims_posted": 11340,
+      "lines_posted": 19272,
+      "exceptions": 0,
+      "underpayments": 472,
+      "denied_lines": 1740,
+      "posted_paid_dollars": 1670352.63,
+      "underpaid_dollars": 7915.21,
+      "paid_matches_source": true,
+      "adjustments_match_source": true,
+      "denials_queued_match_source": true,
+      "underpayment_recall": 0.99,
+      "underpayment_precision": 1.0
+    },
+    "prediction": {
+      "model": "denial-gbm-0.2",
+      "test_from_dos": "2026-08-03",
+      "train_claims": 8482,
+      "test_claims": 2858,
+      "test_denial_rate": 0.121,
+      "auc": 0.939,
+      "average_precision": 0.907,
+      "precision_top_10pct": 0.982,
+      "recall_top_10pct": 0.809,
+      "rules_only_baseline": {
+        "precision": 0.786,
+        "recall": 0.879
+      },
+      "top_features": [
+        [
+          "coverage_ended_before_dos",
+          0.1358
+        ],
+        [
+          "blank_dx_pointer",
+          0.0841
+        ],
+        [
+          "auth_missing",
+          0.077
+        ],
+        [
+          "dx_not_supporting_cpt",
+          0.073
+        ],
+        [
+          "bundle_modifier_missing",
+          0.0433
+        ],
+        [
+          "possible_duplicate",
+          0.0135
+        ],
+        [
+          "age",
+          0.0011
+        ],
+        [
+          "payer=BCBSKS",
+          0.001
+        ],
+        [
+          "cpt=99204",
+          0.0005
+        ],
+        [
+          "lob=Commercial",
+          0.0005
+        ]
+      ],
+      "scored_unsent_or_pending": 803
+    },
+    "recovery": {
+      "queue_items": 1740,
+      "open": 846,
+      "expired": 671,
+      "closed_no_revenue": 223,
+      "open_denied_dollars": 356892.0,
+      "expected_recovery_dollars": 188002.9,
+      "due_in_14_days": 66,
+      "appeal_letters_drafted": 25,
+      "by_team": {
+        "Patient Access": 223,
+        "Billing": 188,
+        "Clinical Appeals": 109,
+        "Coding": 97,
+        "Patient Financial Services": 85,
+        "Authorization": 80,
+        "AR Follow-up": 64
+      },
+      "recoverability_accuracy": 1.0,
+      "top20pct_share_of_recoverable_dollars": 0.792
+    },
+    "status": {
+      "worklist": 178,
+      "claims_sent_276": 133,
+      "by_channel": {
+        "EDI_276": 123,
+        "BILLING_TEAM": 45,
+        "IVR_BOT": 9,
+        "PORTAL": 1
+      },
+      "by_reason": {
+        "STALE_PENDING": 133,
+        "UNBILLED_PAST_TFL": 27,
+        "UNBILLED_NEAR_TFL": 18
+      },
+      "ai_voice_calls_to_prohibited_payers": 0
+    }
+  },
+  "seconds": 20.0,
+  "seed": 42
+}
